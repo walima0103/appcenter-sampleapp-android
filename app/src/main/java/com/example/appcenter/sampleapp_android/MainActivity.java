@@ -11,6 +11,7 @@ import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
 
+import com.microsoft.appcenter.push.Push;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         AppCenter.start(getApplication(), "f0f76c65-0e83-426b-9345-7ac1cc2cec19",
-                Analytics.class, Crashes.class);
+                Analytics.class, Crashes.class, Push.class);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_root);
 

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323768447892",
+    "firebase_url": "https://wprepbrkdemofb.firebaseio.com",
+    "project_id": "wprepbrkdemofb",
+    "storage_bucket": "wprepbrkdemofb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323768447892:android:6f3486452ec23762",
+        "android_client_info": {
+          "package_name": "com.example.appcenter.sampleapp_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323768447892-1k6jdi6i89i5em9s2r66jisumukicurc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgUtAYrL0zRN0ZuyXkT8_73ZKpgYQH1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

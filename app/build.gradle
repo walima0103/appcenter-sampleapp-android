@@ -1,16 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'wandroidkey'
-            keyPassword 'P2ssw0rd'
-            storeFile file('C:/Users/walima/keystores')
-            storePassword 'P2ssw0rd'
-        }
-        config1 {
-        }
-    }
     compileSdkVersion 27
     buildToolsVersion '28.0.3'
     defaultConfig {

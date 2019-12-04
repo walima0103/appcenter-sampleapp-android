@@ -1,6 +1,8 @@
 # Visual Studio App Center Sample App for Android 
 The Android application in this repository and its corresponding tutorials will help you quickly and easily onboard to Visual Studio App Center.
 
+[![Build Status](https://wademos.visualstudio.com/az-400-2019/_apis/build/status/walima0103.appcenter-sampleapp-android?branchName=master)](https://wademos.visualstudio.com/az-400-2019/_build/latest?definitionId=69&branchName=master)
+
 ## About this repository
 The App Center SDK modules are already integrated within the application. Simply follow the tutorials to learn how to use each service.
 
